@@ -1,0 +1,5 @@
+ID : 1  |  Name: shabrin  | Type: Full-Time  | Salary: 15600 | Date : June 22 , 2025 
+ID : 2  |  Name: shabrin  | Type: Full-Time  | Salary: 25000 | Date : June 22 , 2025 
+ID : 3  |  Name: puja  | Type: part-Time  | Salary: 2400 | Date : June 22 , 2025 
+ID : 4  |  Name: niharika  | Type: part-Time  | Salary: 2300 | Date : June 22 , 2025 
+ID : 5  |  Name: priya  | Type: Full-Time  | Salary: 24500 | Date : June 22 , 2025 
